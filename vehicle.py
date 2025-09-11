@@ -18,4 +18,4 @@ class Bike(Vehicle):
     def __init__(self, vehicle_type, license_plate, rate) -> None:
         super().__init__(vehicle_type, license_plate, rate)
 
-        # git commit 
+# loredm at the rand 
